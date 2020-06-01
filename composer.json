@@ -1,16 +1,23 @@
 {
     "name": "pestphp/pest-dev-tools",
-    "description": "A collection of dependencies for the elegant PHP Testing Framework",
+    "description": "Dev requirements for Pest, The elegant PHP Testing Framework.",
     "keywords": [
         "php",
+        "framework",
         "pest",
-        "dev-tools"
+        "unit",
+        "test",
+        "testing"
     ],
     "license": "MIT",
     "authors": [
         {
             "name": "Nuno Maduro",
             "email": "enunomaduro@gmail.com"
+        },
+        {
+            "name": "Didier Sampaolo",
+            "email": "didier@lvlup.fr"
         }
     ],
     "require": {
