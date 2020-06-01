@@ -20,7 +20,7 @@
             "email": "didier@lvlup.fr"
         }
     ],
-    "require-dev": {
+    "require": {
         "ergebnis/phpstan-rules": "^0.14.4",
         "friendsofphp/php-cs-fixer": "^2.16.3",
         "phpstan/phpstan": "^0.12.25",
