@@ -18,12 +18,12 @@
     ],
     "require": {
         "ergebnis/phpstan-rules": "^0.15.1",
-        "friendsofphp/php-cs-fixer": "2.16.4",
-        "phpstan/phpstan": "0.12.36",
-        "phpstan/phpstan-strict-rules": "0.12.4",
-        "rector/rector-prefixed": "0.7.63",
+        "friendsofphp/php-cs-fixer": "^2.16.4",
+        "phpstan/phpstan": "^0.12.36",
+        "phpstan/phpstan-strict-rules": "^0.12.4",
+        "rector/rector-prefixed": "0.7.61",
         "symfony/var-dumper": "^5.1.3",
-        "thecodingmachine/phpstan-strict-rules": "0.12.0"
+        "thecodingmachine/phpstan-strict-rules": "^0.12.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
