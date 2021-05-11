@@ -18,7 +18,7 @@
     ],
     "require": {
         "ergebnis/phpstan-rules": "^0.15.3",
-        "friendsofphp/php-cs-fixer": "^2.18.3",
+        "friendsofphp/php-cs-fixer": "^3.0",
         "phpstan/phpstan": "^0.12.81",
         "phpstan/phpstan-strict-rules": "^0.12.9",
         "symfony/var-dumper": "^5.2.5",
