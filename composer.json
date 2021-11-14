@@ -17,12 +17,12 @@
         }
     ],
     "require": {
-        "ergebnis/phpstan-rules": "^0.15.3",
-        "friendsofphp/php-cs-fixer": "^3.0",
-        "phpstan/phpstan": "^0.12.81",
-        "phpstan/phpstan-strict-rules": "^0.12.9",
-        "symfony/var-dumper": "^5.2.5",
-        "thecodingmachine/phpstan-strict-rules": "^0.12.1"
+        "ergebnis/phpstan-rules": "^1.0.0",
+        "friendsofphp/php-cs-fixer": "^3.2.1",
+        "phpstan/phpstan": "^1.1.2",
+        "phpstan/phpstan-strict-rules": "^1.0.0",
+        "symfony/var-dumper": "^5.3.10",
+        "thecodingmachine/phpstan-strict-rules": "^1.0.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
