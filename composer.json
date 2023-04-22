@@ -19,12 +19,12 @@
     "require": {
         "php": "^8.1",
         "ergebnis/phpstan-rules": "^1.0.0",
-        "laravel/pint": "^1.7.0",
-        "phpstan/phpstan": "^1.10.9",
+        "laravel/pint": "^1.9.0",
+        "phpstan/phpstan": "^1.10.14",
         "phpstan/phpstan-strict-rules": "^1.5.1",
-        "symfony/var-dumper": "^6.2.7",
+        "symfony/var-dumper": "^6.2.8",
         "symplify/phpstan-rules": "^11.2.5.72",
-        "rector/rector": "^0.15.23",
+        "rector/rector": "^0.15.25",
         "thecodingmachine/phpstan-strict-rules": "^1.0.0"
     },
     "minimum-stability": "dev",
