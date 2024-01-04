@@ -18,12 +18,12 @@
     ],
     "require": {
         "php": "^8.2.0",
-        "laravel/pint": "^1.13.7",
-        "phpstan/phpstan": "^1.10.50",
-        "phpstan/phpstan-strict-rules": "^1.5.2",
-        "symfony/var-dumper": "^6.4.2",
-        "symplify/phpstan-rules": "^12.4.3",
+        "laravel/pint": "^1.11.0",
+        "phpstan/phpstan": "^1.10.29",
+        "phpstan/phpstan-strict-rules": "^1.5.1",
+        "symfony/var-dumper": "^6.3.3",
         "rector/rector": "^0.16.0",
+        "phpunit/phpunit": "^11.0.0",
         "thecodingmachine/phpstan-strict-rules": "^1.0.0"
     },
     "minimum-stability": "dev",
