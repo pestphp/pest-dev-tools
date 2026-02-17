@@ -23,7 +23,7 @@
         "phpstan/phpstan-strict-rules": "^2.0.10",
         "symfony/var-dumper": "^8.0.4",
         "rector/rector": "^2.3.6",
-        "phpunit/phpunit": "^13.0",
+        "phpunit/phpunit": "^13.0.3",
         "symplify/phpstan-rules": "^14.9.11"
     },
     "minimum-stability": "dev",
